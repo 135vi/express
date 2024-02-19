@@ -1,7 +1,9 @@
-const friends = [
+const messages = [
     {
         id: 0,
-        name: 'Albert Einstein'
+        senderID: '0',
+        text: "hi!"
+        
     },
     {
         id: 1,

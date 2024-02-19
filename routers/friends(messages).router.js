@@ -3,7 +3,7 @@ const {
     getFriend,
     getFriends,
     postFriend
-} = require('../controllers/friends.controller');
+} = require('../controllers/friends(messages).controller');
 
 const friendsRouter = express.Router()
 
